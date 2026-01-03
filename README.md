@@ -23,6 +23,6 @@ A visually stunning, high-performance landing page for a premium music gear stor
 - **JavaScript**: Minimal vanilla JS for scroll reveals and mobile menu.
 
 ## 📦 Deployment
-
+- **github Default Deployment**
 ---
 © 2024 SonicWave Design by Bhavik Patel
