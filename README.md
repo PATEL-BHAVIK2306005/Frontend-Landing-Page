@@ -24,11 +24,5 @@ A visually stunning, high-performance landing page for a premium music gear stor
 
 ## 📦 Deployment
 
-This project is ready for deployment on **GitHub Pages**.
-
-1. Go to [Settings > Pages](https://github.com/PATEL-BHAVIK2306005/Frontend-Landing-Page/settings/pages).
-2. Under **Build and deployment**, select `main` branch.
-3. Click **Save**.
-
 ---
 © 2024 SonicWave Design by Bhavik Patel
